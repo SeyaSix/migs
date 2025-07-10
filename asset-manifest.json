@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/migs/static/css/main.92ad4745.css",
+    "main.js": "/migs/static/js/main.cb2f4d0d.js",
+    "static/media/logo.png": "/migs/static/media/logo.59c43044db10694e056c.png",
+    "static/media/pinpon2.jpg": "/migs/static/media/pinpon2.45c700bc2dbf09fc34aa.jpg",
+    "static/media/TAXI.png": "/migs/static/media/TAXI.ae81a4c4b9ab448d208c.png",
+    "index.html": "/migs/index.html",
+    "main.92ad4745.css.map": "/migs/static/css/main.92ad4745.css.map",
+    "main.cb2f4d0d.js.map": "/migs/static/js/main.cb2f4d0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92ad4745.css",
+    "static/js/main.cb2f4d0d.js"
+  ]
+}
