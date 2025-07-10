@@ -1,0 +1,18 @@
+{
+  "name": "migs-website",
+  "version": "1.0.0",
+  "description": "Site web pour entreprise d'informatique MIGS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd backend && npm start",
+    "client": "cd frontend && npm start",
+    "install-all": "npm install && cd backend && npm install && cd ../frontend && npm install"
+  },
+  "keywords": ["react", "nodejs", "entreprise", "informatique"],
+  "author": "MIGS",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+} 
